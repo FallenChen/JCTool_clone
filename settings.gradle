@@ -1,0 +1,3 @@
+rootProject.name = 'JCTools_clone'
+include 'jaq_inabox'
+
